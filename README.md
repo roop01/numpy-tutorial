@@ -1,1 +1,1 @@
-# numpy-tutorial
+Beginner level NumPy tutorial.
